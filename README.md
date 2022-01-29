@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning more about ES6
 - 👯 I’m looking to collaborate on making the passwordCritic library as efficient and useful as possible
-- 🤔 I’m looking for help with always making testing easier
-- 💬 Ask me about my fascination with [Go](http://golang.org)
-- 📫 How to reach me: [sam@myres.dev](mailto:sam@myres.dev)
+- 🤔 I’m always looking for ways to make testing easier
+- 📫 How to reach me: [email me: sam@myres.dev](mailto:sam@myres.dev) or text: (812) 453-6600 <!--[or text: (812)453-6600](tel:8124536600)-->
 - ⚡ Fun fact: I can ride a unicycle! and juggle! just can't thread them together 😄
