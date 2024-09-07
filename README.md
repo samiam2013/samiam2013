@@ -1,7 +1,6 @@
 ### Hi 👋 I'm Sam
 
 <ul>
- <li>📰 I have a medium blog at <a href="https://blog.myres.dev">blog.myres.dev</a></li>
  <li>💻 My Portfolio is at <a href="https://myres.dev">myres.dev</a></li>
  <li>📫 How to reach me: <a href="mailto:sam@myres.dev">sam@myres.dev</a></li>
  <li>🚁 I'm a part 107 FAA sUAS license holder and love flying drones</li>
