@@ -1,12 +1,10 @@
-### Hi 👋 I'm Sam
+### Hello 👋 I'm Sam
 
-<ul>
- <li>💻 My Portfolio is at <a href="https://myres.dev">myres.dev</a></li>
- <li>📫 How to reach me: <a href="mailto:sam@myres.dev">sam@myres.dev</a></li>
- <li>🚁 I'm a part 107 FAA sUAS license holder and love flying drones</li>
- <li>📻 I'm also a licensed Amateur Radio operator, general class, W9USI
- <li>⚡ Fun fact: I can ride a unicycle! and juggle! just not at the same time (yet 🤡)</li>
-</ul>
+* 💻 I have a <a href="https://blog.myres.dev">blog</a> and <a href="https://myres.dev">portfolio</a>
+* 📫 Reach me: <a href="mailto:sam@myres.dev">sam@myres.dev</a>
+* ✈️ I'm a Drone Pilot (Part 107 FAA sUAS license)
+* 📻 I'm also a licensed Ham, general class, W9USI
+* 🤡 Fun fact: I can ride a unicycle! and juggle!
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiam2013&layout=compact)](https://github.com/samiam2013/github-readme-stats)
