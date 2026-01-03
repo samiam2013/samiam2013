@@ -11,10 +11,10 @@
         <!--i>🤡 Fun fact: I can ride a unicycle! and juggle!</li-->
       </ul>
     </td>
-    <td>
+    <!--td>
       <a href="https://github.com/samiam2013/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiam2013&layout=compact">
       </a>
-    </td>
+  </td-->
  </tr>
 </table>
